@@ -1,0 +1,18 @@
+.b{
+    background-color: rgb(174, 100, 100);
+}
+.img{
+    /* border: 2px solid black; */
+    height: 50vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+img{
+    height: 100px;
+    width: 150px;
+}
+#text{
+    margin: 20%;
+}
+
